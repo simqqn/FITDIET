@@ -1,0 +1,25 @@
+.navbar-brand, .navbar-brand:hover {
+  color: #639a30;
+  font-weight: 600;
+}
+.navbar-brand span {
+  color: #ff8456;
+}
+footer {
+  background-color: #222222;
+  color: #999999;
+}
+footer h3, footer p {
+  padding-left: 25px;
+}
+footer h3 {
+  color: #fff;
+}
+footer a, footer a:visited {
+  color: #999;
+  text-decoration: none;
+}
+/*
+ - Mapa Google
+ - Popracować nad estetyką
+*/
